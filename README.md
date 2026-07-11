@@ -10,7 +10,7 @@ Project Modules
 - Inventory Management
 - Reports
 
-YEARN TO SOMEONE
+YEARN TO SOMEONE BUT NO BEGGING
 
 Development Team
 Student Name: Aidean Licaros
