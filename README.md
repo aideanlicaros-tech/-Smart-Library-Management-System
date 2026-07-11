@@ -10,6 +10,8 @@ Project Modules
 - Inventory Management
 - Reports
 
+YEARN
+
 Development Team
 Student Name: Aidean Licaros
 Course: BSIT
