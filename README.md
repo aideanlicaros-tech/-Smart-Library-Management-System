@@ -10,7 +10,7 @@ Project Modules
 - Inventory Management
 - Reports
 
-YEARN
+YEARN TO SOMEONE
 
 Development Team
 Student Name: Aidean Licaros
